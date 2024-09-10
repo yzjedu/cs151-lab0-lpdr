@@ -1,0 +1,7 @@
+print ("CS151 Lab 0")
+print('Donovan Raymond')
+print('Donovan knows how to dance his fingers between violin strings and guitar cords.')
+print('With a blistering mile time of 5:50, Donovan’s strides feel like a sprint even over long distances.')
+print('Seven months ago, Donovan faced the challenge of a torn meniscus.')
+print('While Donovan has explore parts of North America, a world of continents awaits his discovery.')
+print("Donovan's father speaks the language of machines, he knows C++ and python.")
