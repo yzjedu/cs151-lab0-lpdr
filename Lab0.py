@@ -1,12 +1,3 @@
-import time
-
-#prints texts with a slight delay
-def print_text_animation(text):
-    for char in text:
-        print(char, end="", flush=True)
-        time.sleep(0.1)
-    print()#new line
-
 print('Donovan Raymond')
 print('Donovan knows how to dance his fingers between violin strings and guitar cords.')
 print('With a blistering mile time of 5:50, Donovan’s strides feel like a sprint even over long distances.')
